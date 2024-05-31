@@ -48,6 +48,10 @@ The project uses a Random Forest Regressor as the primary model. The trained mod
 
 The application uses Gradio to provide a user-friendly interface for salary prediction.
 
+## Contributors
+
+Riyad Ahmadov
+
 ## Conclusion
 
 This project demonstrates the end-to-end process of building a salary prediction model, from data preprocessing and feature engineering to model training and deployment using Gradio. The final application allows users to input various details and receive a predicted salary, providing valuable insights into the factors influencing salary in data professions.
